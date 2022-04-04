@@ -1,0 +1,27 @@
+{
+	"workbench.colorTheme": "Monokai Pro (Filter Machine)",
+	"editor.fontFamily": "MonoLisa",
+	"editor.fontSize": 14.5,
+	"terminal.integrated.fontSize": 14.5,
+	"editor.minimap.enabled": true,
+	"workbench.iconTheme":"material-icon-theme",
+	"window.zoomLevel": 0,
+	"editor.fontLigatures": true,
+	"terminal.integrated.fontWeight": "13",
+	"editor.cursorSmoothCaretAnimation": true,
+	"editor.cursorBlinking": "smooth",
+	"editor.lineHeight": 1.6,
+	"editor.padding.top": 10, 
+	"editor.lineNumbers":"on",
+	"editor.cursorWidth": 3,
+	"terminal.integrated.lineHeight": 0,
+	"editor.tabSize": 3,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.minimap.maxColumn": 50,
+	"terminal.integrated.fontFamily": "MonoLisa",
+	"[javascript]": {
+	 "editor.defaultFormatter": "vscode.extension-editing"
+   },
+   "jupyter.jupyterServerType": "local",
+	
+ }
